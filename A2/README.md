@@ -6,6 +6,10 @@ The detailed versions of python, numpy and pandas used in testing your assignmen
   - numpy 1.23.1
   - pandas 1.4.3
 
+**Please note that while it is mentioned in the assignment that you should use `python3` command, this is only to make sure you don't use python version 2. you can check the version of your python in terminal by entering `python --version`, and if the version is correct, then you can run it using:**
+```bash
+python a2.py
+```
 # Reproducing the testing environment using conda
 
 You can use **conda** to reproduce the same environment in your system. (Find instructions for installing conda [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/))
